@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Prestij_Light";
+    src: url("/fonts/Prestij_Light_Demo.otf") format("truetype");
+}
+
+
+#titletext {
+    /* font-family: "Spirax", system-ui; */
+    font-family: "Prestij_Light", system-ui;
+    font-weight: 500;
+    width: 400px;
+    color: #a76881;
+    text-align: center;
+    transform: translate(0, -110px);
+
+  }

@@ -1,0 +1,68 @@
+const songTitles = [
+  "The Grants",
+  "Did you know that there's a tunnel under Ocean Blvd",
+  "Sweet",
+  "A&W",
+  "Judah Smith Interlude",
+  "Candy Necklace (Ft. Jon Batiste)",
+  "Jon Batiste Interlude",
+  "Kintsugi",
+  "Fingertips",
+  "Paris, Texas (Ft. SYML)",
+  "Grandfather please stand on the shoulders of my father while he's deep-sea fishing (Ft. RIOPY)",
+  "Let The Light In (Ft. Father John Misty)",
+  "Margaret (Ft. Bleachers)",
+  "Fishtail",
+  "Peppers (Ft. Tommy Genesis)",
+  "Taco Truck x VB"
+];
+
+const songTitles = [
+  "Text Book",
+  "Blue Banisters",
+  "Arcadia",
+  "Interlude - The Trio",
+  "Black Bathing Suit",
+  "If You Lie Down With Me",
+  "Beautiful",
+  "Violets for Roses",
+  "Dealer (Ft. Miles Kane)",
+  "Thunder",
+  "Wildflower Wildfire",
+  "Nectar of the Gods",
+  "Living Legend",
+  "Cherry Blossom",
+  "Sweet Carolina"
+];
+
+cocc
+const songTitles = [
+  "White Dress",
+  "Chemtrails Over the Country Club",
+  "Tulsa Jesus Freak",
+  "Let Me Love You Like A Woman",
+  "Wild at Heart",
+  "Dark But Just a Game",
+  "Not All Who Wander Are Lost",
+  "Yosemite",
+  "Breaking Up Slowly (Ft. Nikki Lane)",
+  "Dance Till We Die",
+  "For Free (Ft. Weyes Blood & Zella Day)"
+];
+
+const songTitles = [
+  "Norman fucking Rockwell",
+  "Mariners Apartment Complex",
+  "Venice Bitch",
+  "Fuck it I love you",
+  "Doin' Time",
+  "Love song",
+  "Cinnamon Girl",
+  "How to disappear",
+  "California",
+  "The Next Best American Record",
+  "The greatest",
+  "Bartender",
+  "Happiness is a butterfly",
+  "​hope is a dangerous thing for a woman like me to have - but i have it"
+];
